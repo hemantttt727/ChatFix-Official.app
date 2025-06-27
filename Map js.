@@ -1,0 +1,8 @@
+export default function Map() {
+  return (
+    <div style={{ textAlign: 'center', marginTop: '50px' }}>
+      <h1>Nearby Users</h1>
+      <p>Live map coming soon...</p>
+    </div>
+  );
+}
